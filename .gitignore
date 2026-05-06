@@ -48,3 +48,6 @@ msbuild.wrn
 PortSolutionResult.txt
 PortSolutionResult.json
 package-cleanup-result.json
+
+# Runtime state
+.current_code_path
